@@ -17,22 +17,22 @@
 
 day = input("Whats the day today? ")
 
-if day == "Monday":
+if day == "monday":
     print("Water the monstera")
 
-elif day == "Tuesday":
+elif day == "tuesday":
     print("Water the arrow head")
 
-elif day == "Wednesday":
+elif day == "wednesday":
     print("Water the peace lily")
 
-elif day == "Thursday":
+elif day == "thursday":
     print("Water the string of hearts")
 
-elif day == "Friday":
+elif day == "friday":
     print("Pump some plant food")
 
-elif day == "Saturday":
+elif day == "saturday":
     print("Water the herbs")
 
 else:
